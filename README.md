@@ -1,1 +1,1 @@
-# Gaussian-Transformation
+# Gaussian-Transformation in simple way
